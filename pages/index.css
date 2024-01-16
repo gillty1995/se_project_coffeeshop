@@ -97,7 +97,7 @@
   z-index: 0;
 }
 
-.header__image_coffeeshop {
+.header__image-coffeeshop {
   max-width: 100%;
   margin: 0 auto;
   height: auto;
@@ -181,7 +181,7 @@
   margin: 24px 0 0 0;
 }
 
-.recipes__videos_size {
+.recipes__iframe {
   width: 480px;
   height: 273px;
 }
