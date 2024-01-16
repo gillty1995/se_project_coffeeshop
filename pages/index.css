@@ -88,7 +88,7 @@
   margin: 0;
 }
 
-.header__image {
+.header__image-coffeeshop {
   width: 649px;
   height: 568px;
   position: absolute;
@@ -97,7 +97,7 @@
   z-index: 0;
 }
 
-.header__image-coffeeshop {
+.header__image {
   max-width: 100%;
   margin: 0 auto;
   height: auto;
