@@ -199,7 +199,7 @@
   justify-content: center;
   margin: 0;
   padding: 100px 0 0;
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -237,7 +237,7 @@
 }
 
 .form__label {
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -259,7 +259,7 @@
 .form__button {
   padding: 0;
   margin: 0 0 32px;
-  font-family: "Inter" Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -276,7 +276,7 @@
 }
 
 ::placeholder {
-  font-family: "Inter;" Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
