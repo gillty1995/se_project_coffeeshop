@@ -34,7 +34,7 @@
   color: #fff;
 }
 
-.list {
+.footer__list {
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -43,7 +43,7 @@
   gap: 16px;
 }
 
-.social-link {
+.footer__social-link {
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -53,12 +53,12 @@
   color: #fff;
 }
 
-.social-link:hover {
+.footer__social-link:hover {
   color: #c1c1c1;
   transition: 0.3s;
 }
 
-.social-icon {
+.footer__social-icon {
   height: 16px;
   width: 16px;
   margin: 0 10px 0 0;
