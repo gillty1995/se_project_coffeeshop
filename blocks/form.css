@@ -2,10 +2,6 @@
   max-width: 385px;
 }
 
-.form__name {
-  border-radius: 4px;
-}
-
 .form__input {
   display: block;
   width: 100%;
@@ -15,11 +11,6 @@
   box-sizing: border-box;
   border: 1px solid #838383;
   border-radius: 4px;
-}
-
-.form__button {
-  width: 100%;
-  border: none;
 }
 
 .form__label {
@@ -55,6 +46,8 @@
   height: 60px;
   border-radius: 4px;
   transition: opacity 0.3s ease;
+  width: 100%;
+  border: none;
 }
 
 .form__button:hover {
