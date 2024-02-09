@@ -2,7 +2,7 @@
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
-## Project features
+**Project features**
 
 - Semantic HTML5
 - Flexbox
@@ -14,7 +14,11 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Comprehensive lists and information regarding project subject
 - CSS animation and transform
 
-## Plan on improving the project
+**Github Pages**
+
+https://gillty1995.github.io/se_project_coffeeshop/
+
+**Plan on improving the project**
 
 I would like to improve the aesthetic look of the recipes, form, and menu page. Compared to the design of the header section, those sections lacks a slight flare when it comes to aesthetic.
 
